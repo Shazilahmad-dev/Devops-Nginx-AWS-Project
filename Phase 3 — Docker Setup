@@ -16,7 +16,7 @@ The goal of this phase is to:
 
 ---
 
-# What is Docker (Quick Theory)
+# What is Docker 
 
 Docker is a containerization platform that allows applications to run inside **containers**.
 
